@@ -10,7 +10,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Online-brightgreen)](https://email4better.com) [![Powered by Groq](https://img.shields.io/badge/Powered%20by-Groq-orange)](https://groq.com/) [![Hosted on Cloudflare](https://img.shields.io/badge/Hosted%20on-Cloudflare-blue)](https://www.cloudflare.com/)
 
-Email4Better(email4better.com) is a simple, user-friendly website that helps people write and reply and English emails professionally, clearly, and appropriately from any language.
+Email4Better([https://email4better.com](https://email4better.com/)) is a simple, user-friendly website that helps people write and reply and English emails professionally, clearly, and appropriately from any language.
 
 It supports multiple tones and levels of detail and can generate contextual replies when an original message is provided.
 
